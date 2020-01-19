@@ -1,0 +1,81 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "thumbnail": "images/mapping-app-Vuejs.png",
+            "projectName": "Mapping Application",
+            "shotDescription": "Vue js SPA",
+            "link": "//www.google.com"
+        },
+        {
+            "id": 2,
+            "thumbnail": "images/clienthub-app-Vuejs.png",
+            "projectName": "Client Hub Application",
+            "shotDescription": "Vue js SPA",
+            "link": "//www.google.com"
+        },
+        {
+            "id": 3,
+            "thumbnail": "images/mapping-app-Vuejs.png",
+            "projectName": "Coach Finder",
+            "shotDescription": "React SPA",
+            "link": "//www.webimpact.co.nz/react/coach-finder/"
+        },
+        {
+            "id": 4,
+            "thumbnail": "images/clienthub-app-Vuejs.png",
+            "projectName": "Employee Management",
+            "shotDescription": "Vue js SPA",
+            "link": "//webimpact.co.nz/react/emp-mgmt/"
+        },
+        {
+            "id": 1,
+            "thumbnail": "images/mapping-app-Vuejs.png",
+            "projectName": "Shopping Cart",
+            "shotDescription": "React SPA",
+            "link": "//webimpact.co.nz/react/react-shoppingcart/"
+        },
+        {
+            "id": 2,
+            "thumbnail": "images/clienthub-app-Vuejs.png",
+            "projectName": "Client Hub Application",
+            "shotDescription": "Vue js SPA",
+            "link": "//www.google.com"
+        },
+        {
+            "id": 3,
+            "thumbnail": "images/Webimpact_React.png",
+            "projectName": "Webimpact",
+            "shotDescription": "Reacjs SPA",
+            "link": "//www.webimpact.co.nz"
+        },
+        {
+            "id": 4,
+            "thumbnail": "images/indiansummer.png",
+            "projectName": "IndianSummer",
+            "shotDescription": "Wordpress CMS",
+            "link": "//www.indiansummer.co.nz"
+        },
+        {
+            "id": 6,
+            "thumbnail": "images/kland.png",
+            "projectName": "Kland",
+            "shotDescription": "Magento CMS",
+            "link": "//kland.co.nz/"
+        },
+        {
+            "id": 7,
+            "thumbnail": "images/nz4u2c.png",
+            "projectName": "New Zealand for your to see",
+            "shotDescription": "Wordpress CMS",
+            "link": "//newzealandforyoutosee.nz/nz4u2csite/"
+        },
+        {
+            "id": 8,
+            "thumbnail": "images/abrakebabra.png",
+            "projectName": "Abrakebabra",
+            "shotDescription": "Wordpress CMS",
+            "link": "//www.abrakebabra.co.nz/"
+        }
+    ]
+}

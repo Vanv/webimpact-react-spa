@@ -1,0 +1,95 @@
+html {
+  background-color: #fcfcfc;
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+/*Banner*/
+.banner-image img {
+  width: 100%;
+}
+.banner-text {
+  color: #fff;
+  font-size: 50px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+.progress {
+  height: 35px;
+  margin-bottom: 30px;
+  font-size: 15px;
+}
+.progress-bar {
+  text-align: left;
+  padding-left: 20px;
+  font-weight: bold;
+}
+
+.skillbar-orange {
+  background-color: #f7a53b;
+}
+.skillbar-blue {
+  background-color: #336699;
+}
+.skillbar-light-blue {
+  background-color: #6adcfa;
+}
+.skillbar-red {
+  background-color: #fa6e6e;
+}
+.skillbar-purple {
+  background-color: #b36ce6;
+}
+.skillbar-dark-blue {
+  background-color: #123861;
+}
+.linkButton {
+  background-color: #4a4848;
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+.linkButton:hover {
+  color: #fff;
+}
+.img-fluid {
+  padding: 5px;
+}
+.card {
+  min-height: 490px;
+}
+.d-flex {
+  position: absolute;
+    right: 20px;
+    bottom: 20px;
+}
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
+
+Footer {
+  background-color: #4a4848;
+  padding: 20px;
+}
